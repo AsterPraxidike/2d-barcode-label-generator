@@ -1,4 +1,5 @@
-# Inventory Label Generator
+# Inventory Label Generator (Vibe coded)
+
 
 Interactive Python tool for printing **2 × 1 inch** inventory labels on US Letter paper (3 columns × 10 rows, 30 per page). Generates Micro QR and/or Data Matrix (ECC200) codes, sequential IDs, custom text, and printable PDFs.
 
